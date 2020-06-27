@@ -1,6 +1,6 @@
 # Curso-JavaScript-Avancado-Alura
 
-###Este curso abordou os seguintes tópicos:
+### Este curso abordou os seguintes tópicos:
 
 - Prólogo: regras, código e manutenção
 - Especificando uma Negociação
